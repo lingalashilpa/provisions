@@ -43,8 +43,8 @@ project-folder/
 ### 1️⃣ Clone the repository
 
 ```
-git clone <your-repo-link>
-cd <folder-name>
+git clone <https://github.com/lingalashilpa/provisions.git>
+cd <provisions>
 ```
 
 ### 2️⃣ Install dependencies
